@@ -43,7 +43,7 @@ ETL_nacionalidade.ipynb ---> prompt usado para fazer a ETL de alguns pontos, adi
 Todos os arquivos csv gerados pelos prompts aramazenando as informações.
 
 
---- Arquivo P.bix ---
+--- Arquivo pbix ---
 
 
 Analise diversidade oscar.pbix ---> o Dashboard interativo mostrando análises pertinentes.
